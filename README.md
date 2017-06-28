@@ -1,2 +1,4 @@
 # python_fun
-a repository for practice in python
+# Albert Oh
+
+a repository for practice and growth in python
